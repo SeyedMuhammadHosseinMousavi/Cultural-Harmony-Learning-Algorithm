@@ -21,5 +21,6 @@
 % my RG: https://www.researchgate.net/profile/Seyed-Mousavi-17
 % ------------------------------------------------ 
 % Hope it help you, enjoy the code and wish me luck :)
-![Cultural Harmony Learning Algorithm](https://user-images.githubusercontent.com/11339420/150004281-7ecb0dbb-65f0-4453-936a-8e5904f111b2.jpg)
+![Cultural Harmony Learning Algorithm](https://user-images.githubusercontent.com/11339420/150004726-beecb38c-18f8-4111-8938-1d2152b0069f.jpg)
+
 
